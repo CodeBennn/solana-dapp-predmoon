@@ -1,4 +1,4 @@
-# [Predmoon] - solar-SG-hackathon-2025
+# [Predmoon] - Solar-SG-hackathon-2025
 
 
 ## 一、提交物清单 (Deliverables)
@@ -30,16 +30,7 @@
   - 前端：Vue/Nuxt.js, ethers.js, Tailwind CSS, Privy.js
   - 后端：Node.js, Supabase, PostgreSQL
   - 合约：Rust
-  - 部署：Vercel, AWS, Sepolia 测试网
-
-### 3) 合约与部署 (Contracts & Deployment)（如有）
-
-- **网络** 测试网
-- **核心合约与地址**：
-  ```
-  ContractName: PredMoonApp https://sepolia.etherscan.io/address/0xfa8472996347B8636f7Cf969F775c200A7d6c259
-  ```
-- **验证链接**：https://repo.sourcify.dev/11155111/0xfa8472996347B8636f7Cf969F775c200A7d6c259
+  - 部署：Vercel, AWS
 
 
 ### 4) 运行与复现 (Run & Reproduce)
